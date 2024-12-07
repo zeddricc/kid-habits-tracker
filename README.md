@@ -12,7 +12,7 @@
 ## Screenshots
 
 
-<img src="https://play-lh.googleusercontent.com/MO_gsoF1rVh9Xw82vCVXhXEf83x9FeEYt4ahjEHJQDFTHXGXReY7b73zfYtofW0E9H4=w526-h296" alt="Screenshot 1" width="400">
+<img src="https://play-lh.googleusercontent.com/MO_gsoF1rVh9Xw82vCVXhXEf83x9FeEYt4ahjEHJQDFTHXGXReY7b73zfYtofW0E9H4=w2560-h1440" alt="Screenshot 1" width="400">
 
 <img src="https://play-lh.googleusercontent.com/hMLLlhBf6PSeWWdnHbulDg8Ro_UgxdQ-l1SE6yMmQv3U2VGGz13qxCNF0Jv2JoTvLkQ=w2560-h1440" alt="Screenshot 2" width="400">
 
